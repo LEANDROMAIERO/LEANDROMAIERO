@@ -1,5 +1,5 @@
 ### Olá, me chamo Leandro !
-### Bem vindos ao meu perfil do GitHub  👋
+### Bem vindos ao meu perfil do GitHub 👋
 
  ##
 
